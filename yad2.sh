@@ -1,1 +1,1 @@
-echo "my name is yadagiri. I am from Hyderabad"
+echo "good morning. good evening. good night"
