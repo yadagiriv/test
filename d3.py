@@ -26,5 +26,5 @@ def wlDeployUndeploy(username, password, adminURL, appName, location, targets):
         print ex.toString()
         cancelEdit('y')
 
-wlDeployUndeploy("weblogic","Weblogic1","t3://192.168.0.105:7001","benefits","/u01/app/oracle/apr2022/apps/benefits.war","AdminServer")
+wlDeployUndeploy("weblogic","Weblogic1","t3://192.168.0.105:7001","benefits","benefits.war","AdminServer")
 
